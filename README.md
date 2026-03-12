@@ -8,3 +8,4 @@ Evaluation metrics:
 1 - RMSE
 2 - Precision
 3 - Recall
+Report link: https://docs.google.com/document/d/1orrufZkT5oqNE_jyJFEhkHnJN2Ss3Ppqz5wQY7WaeK0/edit?usp=sharing
